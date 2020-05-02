@@ -638,3 +638,12 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	margin-left: -12px;
 	border-right-color: #fff;
 	}
+.leaflet-control-custom {
+	height: 2rem;
+	width: 2rem;
+	background: #fff;
+	border: 1px solid gray;
+	cursor: pointer;
+	color: #000;
+	padding: 3px;
+}
